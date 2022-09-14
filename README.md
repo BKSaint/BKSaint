@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saint Walker</h1>
 <h3 align="center">A current student at the STEAM Center.</h3>
+![alt text](image.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
