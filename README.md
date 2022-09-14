@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saint Walker</h1>
 <h3 align="center">A current student at the STEAM Center.</h3>
-![Welcome!!!1!1](BKSaint/nerd-face-emoji-clever-emoticon-with-glasses_3482-1932.jpeg)
+src="https://www.freepik.com/free-photos-vectors/nerd-emoji/5"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
